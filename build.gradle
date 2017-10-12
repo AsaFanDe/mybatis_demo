@@ -14,4 +14,13 @@ dependencies {
     
     //Mybatis Start
     compile 'org.mybatis:mybatis:3.2.1'
+
+
+    //Spring Start
+    compile 'org.springframework:spring-core:4.0.2.RELEASE'
+    compile 'org.springframework:spring-tx:4.0.2.RELEASE'
+    compile 'org.springframework:spring-context-support:4.0.2.RELEASE'
+    compile 'org.springframework:spring-jdbc:4.0.2.RELEASE'
+    compile 'org.springframework:spring-beans:4.0.2.RELEASE'
+    compile 'org.springframework:spring-test:4.0.2.RELEASE'
 }
